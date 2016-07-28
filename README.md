@@ -1,2 +1,2 @@
 # how-rsa-works
-Bash script to show how RSA works
+This is a Bash script to show how RSA works. 
